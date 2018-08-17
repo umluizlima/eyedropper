@@ -1,0 +1,6 @@
+Pillow==5.2.0
+PyAutoGUI==0.9.38
+PyMsgBox==1.0.6
+pyperclip==1.6.4
+PyScreeze==0.1.18
+PyTweening==1.0.3
