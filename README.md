@@ -7,14 +7,15 @@ This script copies the hex (#xxxxxx) color code from the pixel under the mouse's
 
 Once it's run, you can paste the result anywhere (Ctrl+V).
 
-## Usage example
+## Installation
 
 ```sh
-> git clone https://github.com/umluizlima/eyedropper.git
-> cd eyedropper
-> pip install -r requirements.txt
-> python tool.py
+> pip install eyedropper
 ```
+
+## Usage
+
+On Windows, hit Win+R, type eyedropper and hit enter. Now the hex color code for the pixel that is under the cursor is saved on your clipboard for pasting anywhere.
 
 ## Links
 - Repository: https://github.com/umluizlima/eyedropper
