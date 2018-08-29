@@ -15,7 +15,12 @@ Once it's run, you can paste the result anywhere (Ctrl+V).
 
 ## Usage
 
-On Windows, hit Win+R, type eyedropper and hit enter. Now the hex color code for the pixel that is under the cursor is saved on your clipboard for pasting anywhere.
+- On Windows
+
+  Hit **Win + R**, then
+  ```sh
+  > pythonw -m eyedropper
+  ```
 
 ## Links
 - Repository: https://github.com/umluizlima/eyedropper
